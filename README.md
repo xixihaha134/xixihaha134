@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/poteto/poteto/master/nice.gif" alt="Rick Astley dancing — Never Gonna Give You Up" width="100%">
+<img src="./midnight-bug-hunter.gif" alt="Midnight Bug Hunter — xixihaha134 catches a bug and the terminal shows PASS" width="100%">
